@@ -1,0 +1,12 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "Node project from the 3rd class",
+  "main": "index.js",
+  "repository": "https://github.com/RRG44/NodeJs-Clase3.git",
+  "author": "gr44",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
